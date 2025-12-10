@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Velour Bloom",
+    "price": "$120",
+    "img": "/assets/velourbloom.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Blush Rose Éclat",
+    "price": "$90",
+    "img": "/assets/blushrose.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ivory Crème",
+    "price": "$110",
+    "img": "/assets/ivorycreme.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Petal Noir",
+    "price": "$110",
+    "img": "/assets/petalnoir.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Floraire Velvet",
+    "price": "$110",
+    "img": "/assets/florairevelvet.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pink Mirage",
+    "price": "$110",
+    "img": "/assets/pinkmirage.jpg"
+  }
+]
