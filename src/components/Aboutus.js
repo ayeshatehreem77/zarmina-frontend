@@ -5,6 +5,7 @@ function Aboutus() {
   const [about, setAbout] = useState(null);
 
   useEffect(() => {
+    console.log("Backend URL:", process.env.REACT_APP_BACKEND_URL);
     axios.get(`${process.env.REACT_APP_BACKEND_URL}/about`)
       .then((res) => setAbout(res.data))
       .catch((err) => console.log(err));
