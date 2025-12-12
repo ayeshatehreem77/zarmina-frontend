@@ -17,7 +17,7 @@ function Aboutus() {
       
       <div className="right-section">
         <img
-          src={about.imageUrl}
+          src={`${process.env.REACT_APP_BACKEND_URL}${about.imageUrl}`}
           alt="About Us"
           style={{ width: "100%", height: "auto", objectFit: "cover" }}
         />
